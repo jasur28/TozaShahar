@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ButtonsContainer.qml</file>
+        <file>CameraTakePhoto.qml</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>icons/gallery/20x20/back.png</file>
+        <file>icons/gallery/20x20/drawer.png</file>
+        <file>icons/gallery/20x20/menu.png</file>
+    </qresource>
+</RCC>
